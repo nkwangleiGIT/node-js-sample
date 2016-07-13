@@ -22,7 +22,7 @@ var body = [
           '</span>',
           '<div style="width:100%;pading:50px 100px;text-align:center;">',
               '<h1>Hello World - v2</h1>',
-              '<p>Welcome to Node app - CD successful.</span></p>',
+              '<p>Welcome to Node app - CD successful 2.</span></p>',
           '</div>',
       '</div>'
    ].join('');
