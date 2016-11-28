@@ -1,5 +1,5 @@
 # Dockerfile to create a docker image
-FROM 192.168.1.113/tenxcloud/node
+FROM 192.168.1.113/myuantest/hello
 
 # Add files to the image
 RUN mkdir -p /opt/nodejs
