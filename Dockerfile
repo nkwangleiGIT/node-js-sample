@@ -1,5 +1,5 @@
 # Dockerfile to create a docker image
-FROM 192.168.1.113/wanglei/node
+FROM index.tenxcloud.com/tenxcloud/node
 
 # Add files to the image
 RUN mkdir -p /opt/nodejs
