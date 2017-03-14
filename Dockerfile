@@ -1,5 +1,5 @@
 # Dockerfile to create a docker image
-FROM index.tenxcloud.com/tenxcloud/node
+FROM index.tenxcloud.com/tenxcloud/nodejs
 
 # Add files to the image
 RUN mkdir -p /opt/nodejs
