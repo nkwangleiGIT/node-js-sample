@@ -28,7 +28,7 @@ var body = [
    ].join('');
 
 http.createServer(function (request, response) {
-    console.log(new Date() + "Vistied...");
+    console.log(new Date() + "Vistied 1...");
     response.writeHead(200, { 'Content-Length': body.length,'Content-Type': 'text/html' });
     response.end(body);
 }).listen(5000)
